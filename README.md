@@ -33,7 +33,7 @@ que mostra um Dashboard com gráfico e também um cadastro de usuários.
 * <ins>Faker</ins>, uma biblioteca que gera dados aleatórios
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/dashgo/blob/main/public/dashgo.gif)
+![](https://github.com/GuiLous/dashgo/blob/master/img.png?raw=true)
 
 
 ## :email: Contato
