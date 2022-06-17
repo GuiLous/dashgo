@@ -4,7 +4,6 @@
 * [Sobre o Projeto](#sobre-o-projeto)
 * [Tecnologias](#hammer_and_wrench-tecnologias)
 * [Screenshots](#camera_flash-screenshots)
-* [Licença](#balance_scale-licença)
 * [Contato](#email-contato)
 
 ## Sobre o projeto
@@ -36,8 +35,6 @@ que mostra um Dashboard com gráfico e também um cadastro de usuários.
 ## :camera_flash: Screenshots
 ![](https://github.com/luiizsilverio/dashgo/blob/main/public/dashgo.gif)
 
-## :balance_scale: Licença
-Este projeto está licenciado sob a [licença MIT](LICENSE).
 
 ## :email: Contato
 
